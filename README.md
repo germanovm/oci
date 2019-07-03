@@ -9,7 +9,7 @@ Command line tool for working with oVirt CI.
 
 On Fedora 28 or later:
 
-    sudo dnf install python2-gobject
+    sudo dnf install python2-gobject python2-six
 
 If the distribution package is too old, you can install from pip as a
 user:
